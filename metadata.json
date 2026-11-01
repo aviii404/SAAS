@@ -1,0 +1,6 @@
+{
+  "name": "AI IdeaForge",
+  "description": "Transform rough business ideas into structured, actionable startup blueprints from idea to impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
